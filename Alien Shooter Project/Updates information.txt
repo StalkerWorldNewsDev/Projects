@@ -1,0 +1,23 @@
+16.06.2023 v 1.0.0.0
+
+- New description and features.
+
+- Rebalance of locations.
+
+- Rebalance of monsters on locations.
+
+- Cut out the "Survival" mode. 
+
+- Cut out the possibility of buying in the store.
+
+- Cut out hints on locations.
+
+- Cut out the 9th location.
+
+- The "Tutorial" tab has been cut out.
+
+- Updated soundtracks.
+
+- Full translation of the modification into English.
+
+- Now you have only 3 types of weapons at your disposal.
